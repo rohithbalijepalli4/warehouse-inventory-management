@@ -19,7 +19,7 @@ Java, object-oriented programming, arrays, 2D arrays, encapsulation, input valid
 - `Warehouse.java` — manages inventory across a grid of shelves
 
 ## Setup
-This project depends on a course-provided `Policies.java` file, which is not included here. Add an authorized copy to the same directory before compiling:
+The course-provided `Policies.java` file is included. To compile the Java classes:
 
 ```bash
 javac *.java
